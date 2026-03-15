@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Who's The Man",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-15T07:32:18.701924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who's the Man",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/01_Who's_the_Man_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who's the Man?",
+      "artist": "Heavy D & The Boyz",
+      "has_synced": false,
+      "path": "select/02_Who's_the_Man_Heavy_D_&_The_Boyz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who's The Man",
+      "artist": "Heavy D & the Boyz",
+      "has_synced": false,
+      "path": "select/03_Who's_The_Man_Heavy_D_&_the_Boyz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who's the Man?",
+      "artist": "Circus Contraption",
+      "has_synced": false,
+      "path": "select/04_Who's_the_Man_Circus_Contraption.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who's the Man",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/05_Who's_the_Man_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who's the Man",
+      "artist": "Heavy D",
+      "has_synced": false,
+      "path": "select/06_Who's_the_Man_Heavy_D.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who's the Man",
+      "artist": "Bizzle feat. Courtney Orlando",
+      "has_synced": false,
+      "path": "select/07_Who's_the_Man_Bizzle_feat._Courtney_Orlando.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who's the Man (feat. Courtney Orlando)",
+      "artist": "Bizzle",
+      "has_synced": false,
+      "path": "select/08_Who's_the_Man_(feat._Courtney_Orlando)_Bizzle.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "House of Pain / Who's The Man",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/09_House_of_Pain___Who's_The_Man_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who’s the Man",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/10_Who’s_the_Man_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who’s the Man? (instrumental)",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/11_Who’s_the_Man__(instrumental)_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who’s the Man? (vocal)",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/12_Who’s_the_Man__(vocal)_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who’s The Man?",
+      "artist": "SadBoyExpress",
+      "has_synced": true,
+      "path": "select/13_Who’s_The_Man_SadBoyExpress.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who's the Man",
+      "artist": "ABN",
+      "has_synced": false,
+      "path": "select/14_Who's_the_Man_ABN.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Who's the Man",
+      "artist": "Bizzle",
+      "has_synced": true,
+      "path": "select/15_Who's_the_Man_Bizzle.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Who's the Man",
+      "artist": "House of Pain & Everlast",
+      "has_synced": false,
+      "path": "select/16_Who's_the_Man_House_of_Pain_&_Everlast.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who's The Man",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_Who's_The_Man_三浦_大知.txt"
+    }
+  ]
+}
